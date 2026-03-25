@@ -16,7 +16,6 @@ To implement univariate Linear Regression to fit a straight line using least squ
 ## Program
 ```
 /*
-Program to find the solution of a matrix using Gaussian Elimination.
 Developed by: S.MONESH
 RegisterNumber: 212225230183
 */
